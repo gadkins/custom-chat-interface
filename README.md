@@ -1,6 +1,6 @@
 # Custom Chat Interface (Claude, GPT-4, or Gemini)
 
-![Custom Chat Interface](/public/assets/screenshot.png)
+![Custom Chat Interface](/public/assets/app.png)
 
 ## Prerequisites
 - Git
