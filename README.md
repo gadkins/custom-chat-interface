@@ -31,3 +31,9 @@ docker compose up -d
 
 ### Access LibreChat
 Visit `http://localhost:3080/` in your browser.
+
+## Deploy
+
+<a href="https://railway.app/template/b5k2mn?referralCode=HI9hWz">
+  <img src="https://railway.app/button.svg" alt="Deploy on Railway" height="30">
+</a>
